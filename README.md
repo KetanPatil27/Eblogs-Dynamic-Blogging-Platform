@@ -1,4 +1,4 @@
-# Eblogs Project
+# Eblogs : Dynamic Blogging Platform
 
 ## Overview
 
